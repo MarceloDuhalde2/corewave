@@ -14,7 +14,7 @@
     <section class="py-8 sm:py-12 md:py-20 bg-gray-50">
         <div class="container mx-auto px-4 sm:px-6 flex flex-col md:flex-row gap-8 sm:gap-10">
             <!-- Formulario -->
-            <div class="flex-1" data-aos="fade-right">
+            <div class="flex-1" data-aos="fade-up">
                 <h2 class="text-lg sm:text-3xl md:text-4xl font-bold mb-4 text-blue-900">Envíanos un mensaje</h2>
                 <form action="{{ route('contact.store') }}" method="POST" class="space-y-4">
                     @csrf
@@ -34,7 +34,7 @@
                 </form>
             </div>
             <!-- Información de contacto -->
-            <div class="flex-1" data-aos="fade-left">
+            <div class="flex-1" data-aos="fade-up">
                 <h2 class="text-lg sm:text-3xl md:text-4xl font-bold mb-4 text-blue-900">Información de Contacto</h2>
                 <div class="space-y-4">
                     <p class="text-xs sm:text-base text-gray-600"><i class="fas fa-envelope text-green-500 mr-2"></i><strong>Email:</strong> contacto@corewave.com</p>
