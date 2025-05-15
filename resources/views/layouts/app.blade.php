@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{{ asset('css/aos.css') }}">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/fontawesome/all.min.css') }}">
+    <meta name="facebook-domain-verification" content="9yw3v58dfngveunj7er9tz29ruuptz" />
 </head>
 <body class="font-inter bg-gray-100">
     <!-- Navbar -->
