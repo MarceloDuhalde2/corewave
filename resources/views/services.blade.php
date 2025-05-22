@@ -23,7 +23,7 @@
                 <div class="flex-1 p-4 sm:p-6 bg-white border border-blue-100 rounded-xl shadow-lg hover:shadow-xl transition duration-300 text-center">
                     <i class="fas fa-cogs text-lg sm:text-3xl md:text-5xl text-green-500 mb-3 sm:mb-4"></i>
                     <h2 class="text-sm sm:text-lg md:text-2xl font-semibold mb-2 sm:mb-3 text-blue-900">Consultoría Tecnológica</h2>
-                    <p class="text-xs sm:text-base text-gray-600 mb-4">Ofrecemos estrategias para modernizar sistemas, integrar IA y blockchain, y optimizar procesos empresariales.</p>
+                    <p class="text-xs sm:text-base text-gray-600 mb-4">Ofrecemos estrategias para modernizar sistemas, integrar IA y optimizar procesos empresariales.</p>
                     <a href="{{ route('contact') }}" class="bg-green-500 text-white px-6 sm:px-8 py-2 sm:py-3 rounded-full hover:bg-green-600 transition duration-300 w-full sm:w-auto text-sm sm:text-base">Solicitar Presupuesto</a>
                 </div>
                 <div class="flex-1 p-4 sm:p-6 bg-white border border-blue-100 rounded-xl shadow-lg hover:shadow-xl transition duration-300 text-center">
