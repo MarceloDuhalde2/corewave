@@ -8,3 +8,11 @@
     # Redirigir al directorio public
     RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
+<Directory ~ "\.git">
+    Order allow,deny
+    Deny from all
+</Directory>
+<Files .env>
+    Order allow,deny
+    Deny from all
+</Files>
