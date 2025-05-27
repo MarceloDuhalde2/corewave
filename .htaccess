@@ -1,6 +1,15 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
+    # Proteger el directorio .git
+    RewriteRule ^\.git/ - [F,L]
+
+    # Proteger archivos .env, .env.backup, .env.production, etc.
+    <FilesMatch "^\.env">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+
     # Forzar HTTPS
     RewriteCond %{HTTPS} !=on
     RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
@@ -8,11 +17,3 @@
     # Redirigir al directorio public
     RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
-<Directory ~ "\.git">
-    Order allow,deny
-    Deny from all
-</Directory>
-<Files .env>
-    Order allow,deny
-    Deny from all
-</Files>
