@@ -65,6 +65,8 @@
                         <a href="https://x.com/CoreWaveIT" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-x-twitter text-xl sm:text-2xl"></i></a>
                         <a href="https://www.instagram.com/corewaveit" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-instagram text-xl sm:text-2xl"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=61576221545167" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-facebook text-xl sm:text-2xl"></i></a>
+                        <a href="https://www.tiktok.com/@corewaveit" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-tiktok text-xl sm:text-2xl"></i></a>
+                        <a href="https://www.threads.com/@corewaveit" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-threads text-xl sm:text-2xl"></i></a>
                     </div>
                 </div>
             </div>
