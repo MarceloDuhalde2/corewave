@@ -61,7 +61,7 @@
                     <p class="text-xs sm:text-base text-gray-600"><i class="fas fa-phone text-green-500 mr-2"></i><strong>Teléfono:</strong> <a href="tel:+5493364547429" class="text-green-500 hover:text-green-600">+54 9 336 4547429</a> | <a href="https://wa.me/5493364547429" class="text-green-500 hover:text-green-600">WhatsApp</a></p>
                     <p class="text-xs sm:text-base text-gray-600"><i class="fas fa-map-marker-alt text-green-500 mr-2"></i><strong>Ubicación:</strong> Paso de los Libres, Argentina</p>
                     <div class="flex gap-4 mt-4 justify-center md:justify-start">
-                        <a href="https://www.linkedin.com/company/core-wave-2" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-linkedin text-xl sm:text-2xl"></i></a>
+                        <a href="https://www.linkedin.com/company/corewaveit" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-linkedin text-xl sm:text-2xl"></i></a>
                         <a href="https://x.com/CoreWaveIT" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-x-twitter text-xl sm:text-2xl"></i></a>
                         <a href="https://www.instagram.com/corewaveit" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-instagram text-xl sm:text-2xl"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=61576221545167" target="_blank" class="text-green-500 hover:text-green-600"><i class="fab fa-facebook text-xl sm:text-2xl"></i></a>
